@@ -1,4 +1,5 @@
-![CoverPage](https://github.com/SahilK-027/Trinity-2.0/assets/104154041/dc96d2fc-db95-4f02-bcd5-737d16c57d02)
+![cover](https://github.com/SahilK-027/Trinity-2.0/assets/104154041/7088d939-3e0e-49fb-bdfe-cbae83d23e0f)
+
 
 #### Journey towards the 3D world...🚀
 
