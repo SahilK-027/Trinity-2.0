@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap');
+
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+html,
+body {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-family: 'Inter', sans-serif;
+  background-color: #fafafa;
+}
+
+#text {
+  width: 80vw;
+  stroke-dasharray: 3215;
+  animation: 10s fillSvg;
+}
+
+@keyframes fillSvg {
+  0% {
+    stroke-dashoffset: 3215;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+  }
+}
